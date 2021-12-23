@@ -10,7 +10,7 @@ public struct SportsbookLobbyScreen: View {
                .multilineTextAlignment(.center)
            
            Spacer()
-           Text("My implementation sits outside the current app")
+           Text("Dan is seeing this")
                .multilineTextAlignment(.center)
        }
     }
